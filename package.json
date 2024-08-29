@@ -1,0 +1,14 @@
+{
+  "name": "srt-to-json-book",
+  "version": "1.0.0",
+  "main": "src/index.mjs",
+  "scripts": {
+    "go": "node src/index.mjs"
+  },
+  "author": "Andrew Faurash",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.5.1"
+  }
+}
