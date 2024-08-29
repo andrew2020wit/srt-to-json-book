@@ -9,6 +9,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@types/node": "^22.5.1"
+    "@types/node": "^22.5.1",
+    "html-to-text": "^9.0.5",
+    "srt-parser-2": "^1.2.3"
   }
 }
