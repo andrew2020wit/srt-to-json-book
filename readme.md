@@ -10,3 +10,9 @@
 see also: [https://github.com/andrew2020wit/foreign-reader](https://github.com/andrew2020wit/foreign-reader)
 
 MIT licence
+
+## Tip
+
+You can use "Subtitle Edit" to extract subtitles.
+
+[https://www.nikse.dk/](https://www.nikse.dk/)
