@@ -7,6 +7,8 @@
 - run ```npm run go```
 - take json files from the srt-files folder
 
+You should use UTF-8 encoding.
+
 see also: [https://github.com/andrew2020wit/foreign-reader](https://github.com/andrew2020wit/foreign-reader)
 
 MIT licence
