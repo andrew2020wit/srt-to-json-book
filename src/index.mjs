@@ -5,7 +5,6 @@ import {convert} from "html-to-text";
 const srtFolder = './srt-files';
 const translateFileName = '1.srt';
 const startTimeSeparator = ' ';
-const noItemId = 10000000;
 
 const convertHtmlToTextOption = {
     wordwrap: false,
