@@ -43,7 +43,7 @@ function main() {
 
     jsonBook.content = srtArray.map((srtItem, index) => ({
         id: index,
-        text: [srtItem.startTime + startTimeSeparator + convert(srtItem.text, convertHtmlToTextOption)]
+        text: [srtItem.startTime.slice(0, -4) + startTimeSeparator + convert(srtItem.text, convertHtmlToTextOption)]
     }));
 
     const translation = {};
